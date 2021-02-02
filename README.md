@@ -86,4 +86,4 @@ runtime = 20,231000
 
 **Визуализация результата работы:**
 
-![screenshot of sample](https://raw.githubusercontent.com/Ysavoskin/MarkovProcess/main/VinerProcess.png)
+![screenshot of sample](https://raw.githubusercontent.com/Ysavoskin/The-implementation-of-the-operations-of-matrix-algebra/main/Visual.png)
