@@ -85,4 +85,5 @@ vector[3] = 2
 runtime = 20,231000
 
 **Визуализация результата работы:**
+
 ![screenshot of sample](https://raw.githubusercontent.com/Ysavoskin/MarkovProcess/main/VinerProcess.png)
